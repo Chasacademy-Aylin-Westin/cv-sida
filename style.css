@@ -372,8 +372,9 @@ nav {
     font-family: 'Courier New', Courier, monospace;
 }
 
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
     .col1 {
         margin-left: 50px;
     }
-}
+} */
+
